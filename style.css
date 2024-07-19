@@ -1,0 +1,40 @@
+
+
+
+.heading{
+    font-size: 23px;
+    margin: 0%;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(222, 147, 237) ;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 50px;
+}
+
+.note{
+    font-size: 15px;
+    color:  rgb(222, 147, 237);
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(0, 0, 0);
+    border: 0;
+    width: 100%;
+    line-height: 3;
+    background-color:  rgb(222, 147, 237);
+    text-align: center;
+    bottom: 0;
+}
+
+.canvas{
+    border: 5px solid rgb(241, 166, 249);
+    box-shadow: 5px 5px 5px rgb(227, 188, 227);
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-right: 500px;
+    height: 320px;
+    width: 320px;
+    background-color: rgb(251, 222, 255);
+}
+
